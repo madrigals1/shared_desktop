@@ -12,6 +12,7 @@ This project was made during Startup Weekend Hackathon in 2019.
 - Adding folders
 
 ![Adding Folders](https://i.imgur.com/ikBwgjt.png)
+![Colorpicker](https://i.imgur.com/EsWwESC.png)
 
 - Adding files
 
