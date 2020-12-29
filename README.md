@@ -4,6 +4,9 @@ Shared Desktop is the app, that is used to create online desktop between Teacher
 
 This project was made during Startup Weekend Hackathon in 2019.
 
+## Demo
+[Demo version 0.1.0](https://madrigal.pro/demo/shared_desktop/)
+
 ## Prerequisites
 - **Unity 2019** - Unity is a cross-platform game engine.
 
